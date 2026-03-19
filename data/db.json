@@ -1,0 +1,424 @@
+{
+  "users": [
+    {
+      "_id": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "name": "Sagar Pradhan",
+      "email": "sagar553pradhan@gmail.com",
+      "password": "$2a$10$m1KE7PAD9R3HQp4pOoV9bOpd0je8bvXbbSA/2312BDZZMZ6BpVlHW",
+      "createdAt": "2026-03-19T04:49:41.650Z",
+      "updatedAt": "2026-03-19T04:49:41.650Z"
+    }
+  ],
+  "resumes": [
+    {
+      "user": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "title": "Untitled Resume",
+      "template": "aurora",
+      "themeMode": "dark",
+      "fontStyle": "modern",
+      "personalInfo": {
+        "fullName": "Your Name",
+        "role": "Senior Product Designer",
+        "email": "you@example.com",
+        "phone": "+1 (555) 555-5555",
+        "location": "San Francisco, CA",
+        "website": "https://your-site.com",
+        "linkedin": "https://linkedin.com/in/yourname",
+        "github": "https://github.com/yourname",
+        "summary": "Design-forward builder creating ambitious products with strong storytelling, systems thinking, and measurable outcomes."
+      },
+      "experience": [
+        {
+          "id": "e37f2919-063a-4e77-aa9c-9052e75e6fb2",
+          "role": "Lead Product Designer",
+          "company": "Nova Labs",
+          "location": "Remote",
+          "startDate": "2023",
+          "endDate": "Present",
+          "current": true,
+          "summary": "Led a cross-functional redesign that increased activation by 28% and improved premium conversion."
+        }
+      ],
+      "education": [
+        {
+          "id": "8e48035b-ec0d-4976-a524-83ccd79eff39",
+          "school": "Rhode Island School of Design",
+          "degree": "BFA",
+          "field": "Graphic Design",
+          "startDate": "2016",
+          "endDate": "2020",
+          "score": "3.9 GPA",
+          "summary": "Focused on editorial systems, identity, and digital product storytelling."
+        }
+      ],
+      "skills": [
+        {
+          "id": "c08f1f89-09b2-4b1b-b9bb-12fddd14a962",
+          "name": "Product Strategy",
+          "level": "Expert"
+        },
+        {
+          "id": "8779244e-24ed-4e0b-a6ea-90af2450e538",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "ea07c093-88a1-4b0e-8246-243715840576",
+          "name": "Motion Design",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "id": "0c4e2786-0c8c-4641-8244-125f6a956398",
+          "name": "Orbit Portfolio",
+          "description": "Interactive portfolio experience with animated storytelling and case-study-driven conversion.",
+          "link": "https://example.com",
+          "stack": [
+            "React",
+            "Framer Motion",
+            "Node.js"
+          ]
+        }
+      ],
+      "sectionOrder": [
+        "personalInfo",
+        "experience",
+        "education",
+        "skills",
+        "projects"
+      ],
+      "_id": "654531a2-a62d-4bdc-836b-5d23e02235bf",
+      "createdAt": "2026-03-19T05:57:34.318Z",
+      "updatedAt": "2026-03-19T05:57:34.318Z"
+    },
+    {
+      "user": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "title": "Untitled Resume",
+      "template": "aurora",
+      "themeMode": "dark",
+      "fontStyle": "modern",
+      "personalInfo": {
+        "fullName": "Your Name",
+        "role": "Senior Product Designer",
+        "email": "you@example.com",
+        "phone": "+1 (555) 555-5555",
+        "location": "San Francisco, CA",
+        "website": "https://your-site.com",
+        "linkedin": "https://linkedin.com/in/yourname",
+        "github": "https://github.com/yourname",
+        "summary": "Design-forward builder creating ambitious products with strong storytelling, systems thinking, and measurable outcomes."
+      },
+      "experience": [
+        {
+          "id": "61ff6cac-f95a-496f-8add-8bf8938f30af",
+          "role": "Lead Product Designer",
+          "company": "Nova Labs",
+          "location": "Remote",
+          "startDate": "2023",
+          "endDate": "Present",
+          "current": true,
+          "summary": "Led a cross-functional redesign that increased activation by 28% and improved premium conversion."
+        }
+      ],
+      "education": [
+        {
+          "id": "9c9964e3-13a2-4cbf-abb5-0fa0ede8c6e6",
+          "school": "Rhode Island School of Design",
+          "degree": "BFA",
+          "field": "Graphic Design",
+          "startDate": "2016",
+          "endDate": "2020",
+          "score": "3.9 GPA",
+          "summary": "Focused on editorial systems, identity, and digital product storytelling."
+        }
+      ],
+      "skills": [
+        {
+          "id": "567f40ec-ed75-4e6c-9dd0-570349867f3e",
+          "name": "Product Strategy",
+          "level": "Expert"
+        },
+        {
+          "id": "436a7842-cb65-44ad-8714-6bca6cff567d",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "11289012-15cd-4839-9713-7dbcc4d9b83f",
+          "name": "Motion Design",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "id": "32938c2d-f723-4f6a-9474-f3c21c041ae1",
+          "name": "Orbit Portfolio",
+          "description": "Interactive portfolio experience with animated storytelling and case-study-driven conversion.",
+          "link": "https://example.com",
+          "stack": [
+            "React",
+            "Framer Motion",
+            "Node.js"
+          ]
+        }
+      ],
+      "sectionOrder": [
+        "personalInfo",
+        "experience",
+        "education",
+        "skills",
+        "projects"
+      ],
+      "_id": "251fad94-6830-45d2-b0c9-bf215c27ae62",
+      "createdAt": "2026-03-19T05:57:34.329Z",
+      "updatedAt": "2026-03-19T05:57:34.329Z"
+    },
+    {
+      "user": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "title": "Untitled Resume",
+      "template": "aurora",
+      "themeMode": "dark",
+      "fontStyle": "modern",
+      "personalInfo": {
+        "fullName": "Your Name",
+        "role": "Senior Product Designer",
+        "email": "you@example.com",
+        "phone": "+1 (555) 555-5555",
+        "location": "San Francisco, CA",
+        "website": "https://your-site.com",
+        "linkedin": "https://linkedin.com/in/yourname",
+        "github": "https://github.com/yourname",
+        "summary": "Design-forward builder creating ambitious products with strong storytelling, systems thinking, and measurable outcomes."
+      },
+      "experience": [
+        {
+          "id": "61c04759-8d50-40b3-b93b-5f4bdac5b7b0",
+          "role": "Lead Product Designer",
+          "company": "Nova Labs",
+          "location": "Remote",
+          "startDate": "2023",
+          "endDate": "Present",
+          "current": true,
+          "summary": "Led a cross-functional redesign that increased activation by 28% and improved premium conversion."
+        }
+      ],
+      "education": [
+        {
+          "id": "71b934fa-d3c4-4c16-b95b-aa6e74eff298",
+          "school": "Rhode Island School of Design",
+          "degree": "BFA",
+          "field": "Graphic Design",
+          "startDate": "2016",
+          "endDate": "2020",
+          "score": "3.9 GPA",
+          "summary": "Focused on editorial systems, identity, and digital product storytelling."
+        }
+      ],
+      "skills": [
+        {
+          "id": "5b2d3ba8-19e0-4d2a-97c6-599932355034",
+          "name": "Product Strategy",
+          "level": "Expert"
+        },
+        {
+          "id": "f62cc555-2e8c-42be-bbb6-a6a7bed688cc",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "a4800bf3-04c4-46c2-a3ae-2536e976c893",
+          "name": "Motion Design",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "id": "fdeb7d36-a14b-46e8-a4c9-70005715d955",
+          "name": "Orbit Portfolio",
+          "description": "Interactive portfolio experience with animated storytelling and case-study-driven conversion.",
+          "link": "https://example.com",
+          "stack": [
+            "React",
+            "Framer Motion",
+            "Node.js"
+          ]
+        }
+      ],
+      "sectionOrder": [
+        "personalInfo",
+        "experience",
+        "education",
+        "skills",
+        "projects"
+      ],
+      "_id": "e38dbacf-75b1-4f8b-ab99-0498b1318644",
+      "createdAt": "2026-03-19T05:57:41.207Z",
+      "updatedAt": "2026-03-19T07:45:22.548Z"
+    },
+    {
+      "user": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "title": "Untitled Resume",
+      "template": "aurora",
+      "themeMode": "dark",
+      "fontStyle": "modern",
+      "personalInfo": {
+        "fullName": "Your Name",
+        "role": "Senior Product Designer",
+        "email": "you@example.com",
+        "phone": "+1 (555) 555-5555",
+        "location": "San Francisco, CA",
+        "website": "https://your-site.com",
+        "linkedin": "https://linkedin.com/in/yourname",
+        "github": "https://github.com/yourname",
+        "summary": "Design-forward builder creating ambitious products with strong storytelling, systems thinking, and measurable outcomes."
+      },
+      "experience": [
+        {
+          "id": "69d9af73-6a94-4ab9-8e89-387145151028",
+          "role": "Lead Product Designer",
+          "company": "Nova Labs",
+          "location": "Remote",
+          "startDate": "2023",
+          "endDate": "Present",
+          "current": true,
+          "summary": "Led a cross-functional redesign that increased activation by 28% and improved premium conversion."
+        }
+      ],
+      "education": [
+        {
+          "id": "835ce93d-8bcc-4346-b3a9-0b2fcd04b244",
+          "school": "Rhode Island School of Design",
+          "degree": "BFA",
+          "field": "Graphic Design",
+          "startDate": "2016",
+          "endDate": "2020",
+          "score": "3.9 GPA",
+          "summary": "Focused on editorial systems, identity, and digital product storytelling."
+        }
+      ],
+      "skills": [
+        {
+          "id": "13efbdbc-5add-411f-9491-ce55048370c8",
+          "name": "Product Strategy",
+          "level": "Expert"
+        },
+        {
+          "id": "f713ca6a-aabc-4179-a426-a46b8f11bcc3",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "84a92458-2972-4c5d-bc50-2d62b606be69",
+          "name": "Motion Design",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "id": "cd865dba-d0c0-4c44-974b-214baacffcf0",
+          "name": "Orbit Portfolio",
+          "description": "Interactive portfolio experience with animated storytelling and case-study-driven conversion.",
+          "link": "https://example.com",
+          "stack": [
+            "React",
+            "Framer Motion",
+            "Node.js"
+          ]
+        }
+      ],
+      "sectionOrder": [
+        "personalInfo",
+        "experience",
+        "education",
+        "skills",
+        "projects"
+      ],
+      "_id": "781301cc-f270-4be0-8493-769a6e6c7d65",
+      "createdAt": "2026-03-19T07:46:42.626Z",
+      "updatedAt": "2026-03-19T07:46:42.626Z"
+    },
+    {
+      "user": "94e44bb6-8de1-4a49-9553-9fc0328d88a6",
+      "title": "Untitled Resume",
+      "template": "aurora",
+      "themeMode": "dark",
+      "fontStyle": "modern",
+      "personalInfo": {
+        "fullName": "Your Name",
+        "role": "Senior Product Designer",
+        "email": "you@example.com",
+        "phone": "+1 (555) 555-5555",
+        "location": "San Francisco, CA",
+        "website": "https://your-site.com",
+        "linkedin": "https://linkedin.com/in/yourname",
+        "github": "https://github.com/yourname",
+        "summary": "Design-forward builder creating ambitious products with strong storytelling, systems thinking, and measurable outcomes."
+      },
+      "experience": [
+        {
+          "id": "10413385-83c1-4002-a27a-a24f9cc38334",
+          "role": "Lead Product Designer",
+          "company": "Nova Labs",
+          "location": "Remote",
+          "startDate": "2023",
+          "endDate": "Present",
+          "current": true,
+          "summary": "Led a cross-functional redesign that increased activation by 28% and improved premium conversion."
+        }
+      ],
+      "education": [
+        {
+          "id": "ec10814f-940d-4af6-be1d-b5083aed65e8",
+          "school": "Rhode Island School of Design",
+          "degree": "BFA",
+          "field": "Graphic Design",
+          "startDate": "2016",
+          "endDate": "2020",
+          "score": "3.9 GPA",
+          "summary": "Focused on editorial systems, identity, and digital product storytelling."
+        }
+      ],
+      "skills": [
+        {
+          "id": "30e4783b-8d38-48c4-b89c-5ce311fdc1ba",
+          "name": "Product Strategy",
+          "level": "Expert"
+        },
+        {
+          "id": "cb92dbdb-3fed-42f2-8f39-e8cbd623ef5d",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "f52df624-b7ed-4a4b-be67-437cfc1e3711",
+          "name": "Motion Design",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [
+        {
+          "id": "9e573cfe-c27a-4dce-92de-842caa9920a0",
+          "name": "Orbit Portfolio",
+          "description": "Interactive portfolio experience with animated storytelling and case-study-driven conversion.",
+          "link": "https://example.com",
+          "stack": [
+            "React",
+            "Framer Motion",
+            "Node.js"
+          ]
+        }
+      ],
+      "sectionOrder": [
+        "personalInfo",
+        "experience",
+        "education",
+        "skills",
+        "projects"
+      ],
+      "_id": "21e9a9fb-a8d8-4cde-bb6c-54a47a73706c",
+      "createdAt": "2026-03-19T07:46:42.633Z",
+      "updatedAt": "2026-03-19T08:19:20.602Z"
+    }
+  ]
+}
